@@ -1,0 +1,92 @@
+Seller 5 running
+Seller 2 running
+Seller 3 running
+Seller 4 running
+Seller 1 running
+buyer 6 starting with 5856
+buyer 7 starting with 8239
+buyer 2 starting with 5218
+buyer 14 starting with 5598
+buyer 1 starting with 14223
+buyer 16 starting with 11141
+buyer 13 starting with 11211
+buyer 3 starting with 8687
+buyer 11 starting with 8602
+buyer 12 starting with 9047
+buyer 5 starting with 12142
+buyer 9 starting with 14157
+buyer 10 starting with 8489
+buyer 15 starting with 6962
+buyer 4 starting with 14486
+buyer 8 starting with 9310
+buyer 6 bids on Item 2 for 238!
+buyer 8 bids on Item 5 for 488!
+buyer 4 bids on Item 5 for 976!
+buyer 15 bids on Item 1 for 694!
+buyer 10 bids on Item 2 for 476!
+buyer 12 bids on Item 4 for 542!
+buyer 11 bids on Item 4 for 1084!
+buyer 3 bids on Item 5 for 1952!
+buyer 13 bids on Item 5 for 3904!
+buyer 16 bids on Item 4 for 1094!
+buyer 1 bids on Item 2 for 952!
+buyer 14 bids on Item 3 for 782!
+buyer 2 bids on Item 1 for 1388!
+buyer 7 bids on Item 1 for 2776!
+buyer 9 bids on Item 3 for 1564!
+buyer 5 bids on Item 1 for 5552!
+buyer 7 bids on Item 1 for 8239!
+buyer 14 bids on Item 3 for 3128!
+buyer 3 bids on Item 5 for 7808!
+buyer 11 bids on Item 4 for 2188!
+buyer 12 bids on Item 4 for 4376!
+buyer 10 bids on Item 2 for 1904!
+buyer 4 bids on Item 5 for 14486!
+buyer 6 bids on Item 2 for 3808!
+buyer 10 bids on Item 2 for 7616!
+buyer 11 bids on Item 4 for 8602!
+buyer 16 bids on Item 4 for 8688!
+buyer 1 bids on Item 2 for 14223!
+buyer 9 bids on Item 3 for 6256!
+buyer 5 bids on Item 1 for 12142!
+buyer 14 exiting...
+buyer 14 exiting..
+buyer 7 exiting...
+buyer 7 exiting..
+Seller 4 exiting...
+buyer 2 exiting...
+buyer 2 exiting..
+Seller 5 exiting...
+buyer 13 exiting...
+buyer 13 exiting..
+Seller 3 exiting...
+buyer 16 exiting..
+buyer 3 exiting...
+buyer 3 exiting..
+buyer 11 exiting...
+buyer 11 exiting..
+buyer 10 exiting...
+buyer 10 exiting..
+buyer 15 exiting...
+buyer 15 exiting..
+buyer 12 bids on Item 4 for 9047!
+buyer 12 exiting...
+buyer 8 exiting...
+buyer 8 exiting..
+buyer 12 exiting..
+buyer 6 exiting...
+buyer 6 exiting..
+buyer 1 exiting...
+buyer 1 exiting..
+buyer 5 exiting...
+buyer 5 exiting..
+Item 2 was sold to buyer 1
+Seller 2 exiting...
+Item 1 was sold to buyer 5
+Seller 1 exiting...
+buyer 9 exiting...
+buyer 4 exiting...
+buyer 9 exiting..
+buyer 4 exiting..
+
+Process finished with exit code 0
